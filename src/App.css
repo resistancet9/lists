@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.wrapper {
+  padding: 50px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
+
+#toast-container {
+  top: auto !important;
+  right: auto !important;
+  bottom: 10%;
+  left: 7%;
+}
